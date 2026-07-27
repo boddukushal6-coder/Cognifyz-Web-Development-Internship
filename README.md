@@ -33,4 +33,5 @@ This repository contains the tasks completed during my Web Development Internshi
 - Bootstrap
 
 ## Author
-Kushal Lakshmi Narsimha Kumar Boddu
+ Boddu Kushal Lakshmi Narsimha Kumar 
+ 
