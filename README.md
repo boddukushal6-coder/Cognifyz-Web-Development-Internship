@@ -4,14 +4,14 @@ This repository contains the tasks completed during my Web Development Internshi
 
 ## Level 1
 
-### task1.html
+### Level1 Task1.html
 - Navigation Menu
 - Heading
 - Paragraph
 - Image
 - Form with Input Field and Submit Button
 
-### task2.html
+### Level2 Task2.html
 - Color Change Button
 - Greeting Alert Message
 - Simple Calculator
